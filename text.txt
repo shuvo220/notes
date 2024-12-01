@@ -1,3 +1,4 @@
 git practice.
 new data from feature1.
 new data from feature2.
+mernge feture2 with master.
